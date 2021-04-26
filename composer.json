@@ -2,7 +2,7 @@
     "name": "jsuphp/jdcloud-oss",
     "description": "京东对象云存储OSS",
     "keywords": [
-        "jdcloud"
+        "jdcloud","京东云存储","京东对象存储","京东OSS"
     ],
     "homepage": "http://www.jsuphp.com/",
     "require": {
