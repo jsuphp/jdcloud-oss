@@ -1,5 +1,10 @@
 {
     "name": "jsuphp/jdcloud-oss",
+    "description": "京东对象云存储OSS",
+    "keywords": [
+        "jdcloud"
+    ],
+    "homepage": "http://www.jsuphp.com/",
     "require": {
         "php": ">=7.0"
     },
